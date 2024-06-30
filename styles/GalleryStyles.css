@@ -28,26 +28,22 @@
 }
 
 .button_back {
-    /* margin: 10px;
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    text-decoration: none;
-    background-color: #0eb69a; */
-    display: inline-block;
-    background-color: #0eb69a;
-    color: white;
-    text-decoration: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-.button_next {
     margin: 10px;
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
-    background-color: #0eb69a;
+    background-color: #14937e;
+    color: white;
+    border-style: none;
+}
+
+.button_next {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #14937e;
+    color: white;
+    border-style: none;
 }

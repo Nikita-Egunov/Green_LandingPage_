@@ -12,8 +12,41 @@ header, footer {
     padding: 20px;
 }
 
-main {
-    height: 2000px;
+.footer {
+    color: black;
+}
+.to_shop {
+    margin-bottom: 30px;
+    border-style: none;
+    background-color: #14937e;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
+.to_shop:hover {
+    background-color: #00521d;
+}
 
+.letter {
+    margin-bottom: 30px;
+    border-style: none;
+    background-color: #14937e;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.letter:hover {
+    background-color: #00521d;
+}
+
+.button {
+    display: inline-block;
+}

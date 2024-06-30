@@ -1,0 +1,36 @@
+.hidden {
+    display: none;
+}
+
+.hidden_button {display: inline-block;
+    background-color: #14937e;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-style: none;
+    transition: background-color 0.3s ease;
+}
+
+.hidden_button2 {display: inline-block;
+    background-color: #14937e;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-style: none;
+    transition: background-color 0.3s ease;
+}
+
+.hidden_button3 {display: inline-block;
+    background-color: #14937e;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-style: none;
+    transition: background-color 0.3s ease;
+}
